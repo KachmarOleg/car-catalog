@@ -1,64 +1,64 @@
 {
-[
-  {
-    id: 1,
-    name: "Toyota Camry",
-    price: 24970,
-    image: "http://localhost:5173/images/1.jpg",
-  },
-  {
-    id: 2,
-    name: "Honda Accord",
-    price: 23150,
-    image: "http://localhost:5173/images/2.jpg",
-  },
-  {
-    id: 3,
-    name: "Ford Mustang",
-    price: 35780,
-    image: "http://localhost:5173/images/3.jpg",
-  },
-  {
-    id: 4,
-    name: "BMW 3 Series",
-    price: 41200,
-    image: "http://localhost:5173/images/4.jpg",
-  },
-  {
-    id: 5,
-    name: "Audi A4",
-    price: 39850,
-    image: "http://localhost:5173/images/5.jpg",
-  },
-  {
-    id: 6,
-    name: "Mercedes-Benz C-Class",
-    price: 42990,
-    image: "http://localhost:5173/images/6.jpg",
-  },
-  {
-    id: 7,
-    name: "Hyundai Elantra",
-    price: 19890,
-    image: "http://localhost:5173/images/7.jpg",
-  },
-  {
-    id: 8,
-    name: "Kia Sportage",
-    price: 27640,
-    image: "http://localhost:5173/images/8.jpg",
-  },
-  {
-    id: 9,
-    name: "Nissan Altima",
-    price: 22430,
-    image: "http://localhost:5173/images/9.jpg",
-  },
-  {
-    id: 10,
-    name: "Volkswagen Passat",
-    price: 28970,
-    image: "http://localhost:5173/images/10.jpg",
-  },
-]
+  "cars" = [
+    {
+      id: 1,
+      name: "Toyota Camry",
+      price: 24970,
+      image: "http://localhost:5173/images/1.jpg",
+    },
+    {
+      id: 2,
+      name: "Honda Accord",
+      price: 23150,
+      image: "http://localhost:5173/images/2.jpg",
+    },
+    {
+      id: 3,
+      name: "Ford Mustang",
+      price: 35780,
+      image: "http://localhost:5173/images/3.jpg",
+    },
+    {
+      id: 4,
+      name: "BMW 3 Series",
+      price: 41200,
+      image: "http://localhost:5173/images/4.jpg",
+    },
+    {
+      id: 5,
+      name: "Audi A4",
+      price: 39850,
+      image: "http://localhost:5173/images/5.jpg",
+    },
+    {
+      id: 6,
+      name: "Mercedes-Benz C-Class",
+      price: 42990,
+      image: "http://localhost:5173/images/6.jpg",
+    },
+    {
+      id: 7,
+      name: "Hyundai Elantra",
+      price: 19890,
+      image: "http://localhost:5173/images/7.jpg",
+    },
+    {
+      id: 8,
+      name: "Kia Sportage",
+      price: 27640,
+      image: "http://localhost:5173/images/8.jpg",
+    },
+    {
+      id: 9,
+      name: "Nissan Altima",
+      price: 22430,
+      image: "http://localhost:5173/images/9.jpg",
+    },
+    {
+      id: 10,
+      name: "Volkswagen Passat",
+      price: 28970,
+      image: "http://localhost:5173/images/10.jpg",
+    },
+  ];
 }
